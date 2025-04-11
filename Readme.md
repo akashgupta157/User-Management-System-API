@@ -47,8 +47,8 @@ A robust RESTful API for user management with authentication built with Express.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/user-management-api.git
-   cd user-management-api
+   git clone https://github.com/akashgupta157/User-Management-System-API.git
+   cd User-Management-System-API
    ```
 
 2. Install dependencies:
