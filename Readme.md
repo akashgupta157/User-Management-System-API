@@ -181,25 +181,3 @@ POST /api/auth/login
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-This README includes:
-
-1. **Badges** for quick visual identification of technologies
-2. **Comprehensive feature list**
-3. **Detailed setup instructions**
-4. **Configuration guidance**
-5. **Running instructions** for both development and production
-6. **API documentation** information
-7. **Testing** details
-8. **Endpoint reference** table
-9. **Request/response examples**
-10. **Environment variable** documentation
-11. **License** information
-
-The formatting uses Markdown for excellent GitHub rendering, with clear section organization and consistent styling. You can customize it further by:
-
-- Adding your project's specific deployment instructions
-- Including contribution guidelines
-- Adding screenshots of the API documentation
-- Adding a project roadmap or future features section
